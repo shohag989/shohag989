@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Shohag
 #### I am a frontend web developer
-![I am a frontend web developer]
 
 This is Shohag, I’m a certified web designer. I am offering my service on work related to Web Design, PSD to HTML conversion, AI to HTML, and web-related do a lot more work. High attention to detail and being punctual are my specialty. I always focus on building long-term relationships with all my clients by delivering the work as requested at a competitive price. If you have any queries, please get in touch with me and I’ll be more than happy to answer them.
 
