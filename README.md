@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shohag
 #### I am a frontend web developer
-![I am a frontend web developer](https://scontent.fdac137-1.fna.fbcdn.net/v/t39.30808-6/397580592_304769972385690_8057212518579444304_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeF_gkQ3BwSoaq81wQTtxMnrKxr87hyvEQ0rGvzuHK8RDfSEcnkQ-lU19LfDRAb7PzMdWeSpR6QePU910O3eLcUR&_nc_ohc=FXK3KXvAVlgAX-i48sj&_nc_ht=scontent.fdac137-1.fna&oh=00_AfCBQkkgArIYlQXmu7JklNmGJdx_UF0vBX2v4WpvmezeLw&oe=6596996E)
+![I am a frontend web developer]
 
 This is Shohag, I’m a certified web designer. I am offering my service on work related to Web Design, PSD to HTML conversion, AI to HTML, and web-related do a lot more work. High attention to detail and being punctual are my specialty. I always focus on building long-term relationships with all my clients by delivering the work as requested at a competitive price. If you have any queries, please get in touch with me and I’ll be more than happy to answer them.
 
