@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm an aspiring **Web Developer** currently diving deep in
 
 ## 📈 My GitHub Stats
 
-<p align="center">
+<p display="flex">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohag989&theme=dark&ring=73ffff&fire=73ffff&currStreakLabel=73ffff" alt="GitHub Streak" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=shohag989&show_icons=true&theme=radical" alt="GitHub Stats" />
