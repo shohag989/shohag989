@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Shohag!
 
-Welcome to my GitHub! I'm an aspiring **Web Developer** currently diving deep into the world of the **MERN stack**, **JavaScript**, **Tailwind CSS**, and everything related to **modern web development**. 🚀
+Welcome to my GitHub! I'm an aspiring **Web Developer** currently diving deep into the world of the **MERN stack**, **JavaScript**, **Tailwind CSS**, and everything related to **Modern web development**. 🚀
 
 ---
 
@@ -20,6 +20,9 @@ Welcome to my GitHub! I'm an aspiring **Web Developer** currently diving deep in
   - Git & GitHub
   - VS Code
   - Postman
+  - Docker
+  - Sass
+  - Visual Studio Intellicode
 
 ---
 
@@ -40,8 +43,8 @@ Welcome to my GitHub! I'm an aspiring **Web Developer** currently diving deep in
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Your LinkedIn link here](https://www.linkedin.com/in/shohag-sr989)]
-- **Email**: [shohagsr989@gmail.com]
+- **LinkedIn**: [[🔗 Connect to LinkedIn](https://www.linkedin.com/in/shohag-sr989)]
+- **Email**: [[🔗 Connect to Gmail](shohagsr989@gmail.com)]
 
 Feel free to reach out if you want to collaborate, learn together, or just say hi! ✨
 
