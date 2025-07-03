@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm an aspiring **Web Developer** currently diving deep in
   - Postman
   - Docker
   - Sass
-  - Visual Studio Intellicode
+  - Visual Studio IntelliCode
 
 ---
 
@@ -44,8 +44,10 @@ Welcome to my GitHub! I'm an aspiring **Web Developer** currently diving deep in
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [[🔗 Connect to LinkedIn](https://www.linkedin.com/in/shohag-sr989)]
-- **Email**: [shohagsr989@gmail.com]
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-shohag)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scriptsagebd@gmail.com)
+
 
 Feel free to reach out if you want to collaborate, learn together, or just say hi! ✨
 
