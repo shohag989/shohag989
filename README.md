@@ -61,22 +61,22 @@ Feel free to reach out if you want to collaborate, learn together, or just say h
   <a href="https://github.com/shohag989" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/shohag_sr989/" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-shohag/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/shohag.sr989" target="_blank">
+  <a href="https://www.facebook.com/shohag.989" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://twitter.com/shohag_sr989" target="_blank">
+  <a href="https://twitter.com/shohag989" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://stackoverflow.com/users/shohag_sr989" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://www.youtube.com/@Shohag_sr989" target="_blank">
+  <a href="https://www.youtube.com/@dev_shohag" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/shohag_sr989" target="_blank">
+  <a href="https://www.instagram.com/shohag_989/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
