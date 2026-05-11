@@ -1,85 +1,209 @@
-# 👋 Hey there, I'm Shohag!
+<div align="center">
 
-Welcome to my GitHub! I'm an aspiring **Web Developer** currently diving deep into the world of the **MERN stack**, **JavaScript**, **Tailwind CSS**, and everything related to **Modern web development**. 🚀
+<img src="./hero.png" alt="Hero Banner" width="100%" />
 
----
-
-## 🛠️ Skills I'm Working On
-- **Frontend**:  
-  - JavaScript (ES6+)
-  - React.js
-  - Tailwind CSS
-  - HTML5 & CSS3
-  
-- **Backend**:  
-  - Node.js
-  - Express.js
-  - MongoDB
-
-- **Other Tools**:  
-  - Git & GitHub
-  - VS Code
-  - Postman
-  - Docker
-  - Sass
-  - Visual Studio IntelliCode
+</div>
 
 ---
 
-## 🌱 Currently Learning
-- Building full-stack MERN applications
-- State management with Redux
-- Authentication (JWT, OAuth)
-- RESTful APIs and integration
-- Deployment with Vercel, Netlify, and Heroku
+## 💪 Our Mission_
+
+<div align="center">
+
+Our mission is to provide personalized learning, develop skills,  
+and empower individuals to kick-start their careers.
+
+</div>
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 Our Impacts_
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohag989&show_icons=true&bg_color=0d1117&title_color=73ffff&text_color=ffffff&icon_color=73ffff&hide_border=true" alt="shohag989's GitHub stats" />
-</p>
+<div align="center">
 
----
+| 2600+ | 1200+ | 17+ |
+|------:|------:|----:|
+| successful job placements globally | partner companies for hiring needs | dedicated job placement executives |
 
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-shohag)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scriptsagebd@gmail.com)
-
-
-Feel free to reach out if you want to collaborate, learn together, or just say hi! ✨
+</div>
 
 ---
 
-> "Keep pushing, keep building, and never stop learning." 💻🚀
+## 📬 Contact with us
 
-## 🌐 Connect with me
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/shohag989" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/dev-shohag/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/shohag.989" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://twitter.com/shohag989" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://stackoverflow.com/users/shohag_sr989" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://www.youtube.com/@dev_shohag" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/shohag_989/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<a href="https://your-website-link.com">
+  <img src="./PortfolioLink.png" alt="Website" height="40" />
+</a>
+&nbsp;
+<a href="https://facebook.com/your-page">
+  <img src="./FacebookLink.png" alt="Facebook" height="40" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/company/your-page">
+  <img src="./LinkdinLink.png" alt="LinkedIn" height="40" />
+</a>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+</div>
 
+---
+
+## ⚡ X-Factors Of Programming Hero_
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Zero to Career</h3>
+      <p>A complete journey from absolute beginner to job-ready developer.</p>
+    </td>
+    <td width="33%">
+      <h3>Support</h3>
+      <p>One-to-one live support sessions, seven days a week.</p>
+    </td>
+    <td width="33%">
+      <h3>Job Placement</h3>
+      <p>Job-focused guidance and placement support.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3>Utilities</h3>
+      <p>Offline module and desktop app support.</p>
+    </td>
+    <td width="33%">
+      <h3>Project Based</h3>
+      <p>Learn by building real-world projects.</p>
+    </td>
+    <td width="33%">
+      <h3>Live Session</h3>
+      <p>Live coding sessions for hands-on learning.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💡 What You Will Learn_
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="./HTML5.png" width="70" alt="HTML5" />
+      <br />
+      <b>HTML5</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./CSS3.png" width="70" alt="CSS3" />
+      <br />
+      <b>CSS3</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./JavaScript.png" width="70" alt="JavaScript" />
+      <br />
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./React.png" width="70" alt="React" />
+      <br />
+      <b>React</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="./TailwindCSS.png" width="70" alt="Tailwind CSS" />
+      <br />
+      <b>Tailwind CSS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./TypeScript.png" width="70" alt="TypeScript" />
+      <br />
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./NodeJS.png" width="70" alt="Node.js" />
+      <br />
+      <b>Node.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./Express.png" width="70" alt="Express.js" />
+      <br />
+      <b>Express.js</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="./MongoDB.png" width="70" alt="MongoDB" />
+      <br />
+      <b>MongoDB</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./MySQL.png" width="70" alt="MySQL" />
+      <br />
+      <b>MySQL</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./NextJS.png" width="70" alt="Next.js" />
+      <br />
+      <b>Next.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./Git.png" width="70" alt="Git" />
+      <br />
+      <b>Git</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="./GitHub.png" width="70" alt="GitHub" />
+      <br />
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./NPM.png" width="70" alt="NPM" />
+      <br />
+      <b>NPM</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./Postmen.png" width="70" alt="Postman" />
+      <br />
+      <b>Postman</b>
+    </td>
+    <td align="center" width="120">
+      <img src="./VS%20Code.png" width="70" alt="VS Code" />
+      <br />
+      <b>VS Code</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Our Community_
+
+<div align="center">
+
+<a href="https://facebook.com/your-page">
+  <img src="./FacebookLink.png" alt="Facebook Community" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://youtube.com/@your-channel">
+  <img src="./YouTube.png" alt="YouTube Community" height="45" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./footer.png" alt="Footer Banner" width="100%" />
+
+</div>
