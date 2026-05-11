@@ -21,6 +21,8 @@
 ### ⚙️ Backend
 <p align="left">
   <img src="./NodeJS.png"   alt="Node.js"  height="120" />
+  <img src="./JavaScript.png"   alt="JavaScript"   height="120" />
+  <img src="./NextJS.png"       alt="Next.js"      height="120" />
   <img src="./Express.png"  alt="Express"  height="120" />
 </p>
 
