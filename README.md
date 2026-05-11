@@ -41,7 +41,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="(https://devshohag.vercel.app)">
+  <a href="https://devshohag.vercel.app">
     <img src="/ProtfolioLink.png" alt="Portfolio" height="50" />
   </a>
   <a href="https://linkedin.com/in/dev-shohag">
